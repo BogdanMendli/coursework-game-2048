@@ -1,0 +1,11 @@
+.idea
+bin
+cmake-build-debug
+objects
+*.rar
+*.txt
+.gitattributes
+*.zip
+*.rar
+Makefile
+*.docx
